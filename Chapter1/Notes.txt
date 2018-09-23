@@ -1,0 +1,23 @@
+SQL Introduction
+*SQL stands for Structured Query Language. SQL is a standard language that was designed to query and manage data in relational database management systems (RDBMSs).
+*An RDBMS is a database management system based on the relational model (a semantic model for representing data), which in turn is based on two mathematical branches: set theory and predicate logic. 
+*To the degree that SQL is based on the relational model, it is based on a firm foundation—applied mathematics.
+*The relational model is language-independent. That is, you can implement the relational model with languages other than SQL—for example, with C# in a class model. 
+
+ANI and ISO standard language
+*SQL is both an ANSI and ISO standard language based on the relational model, designed for querying and managing data in an RDBMS.
+*1987. Since 1986, the American National Standards Institute (ANSI) and
+the International Organization for Standardization (ISO) have been releasing revisions for the SQL standard every few years.
+*Interestingly, SQL resembles English and is also very logical. Unlike many programming languages,which use an imperative programming paradigm, SQL uses a declarative one. That is, SQL requires you to specify what you want to get and not how to get it, letting the RDBMS figure out the physical mechanics required to process your request.
+
+DDL, DML and DCL
+*SQL has several categories of statements, including Data Definition Language (DDL), Data Manipulation Language (DML), and Data Control Language (DCL). DDL deals with object definitions and includes statements such as CREATE, ALTER, and DROP. DML allows you to query and modify data and includes statements such as SELECT, INSERT, UPDATE, DELETE, TRUNCATE, and MERGE.
+**TRUNCATE is a DDL statement, but in fact it is a DML statement. DCL deals with permissions and includes statements such as GRANT and REVOKE.
+
+Set Theory
+*Set theory, which originated with the mathematician Georg Cantor, is one of the mathematical branches on which the relational model is based.
+*By a “set” we mean any collection M into a whole of definite, distinct objects m
+(which are called the “elements” of M) of our perception or of our thought.
+
+
+
